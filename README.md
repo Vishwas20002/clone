@@ -70,3 +70,4 @@ Run this to build this project and host
 
 Just open an issue <3
 
+# clone
